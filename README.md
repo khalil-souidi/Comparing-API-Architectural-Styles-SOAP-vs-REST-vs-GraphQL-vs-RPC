@@ -27,3 +27,4 @@ o Quantité de mémoire consommée lors de l’exécution des requêtes.
 o Temps estimé pour mettre en place l’API pour chaque technologie. 
  Nombre de lignes de code : 
 o Quantité de code nécessaire pour réaliser les mêmes fonctionnalités.
+# Comparing-API-SOAP-vs-REST-vs-GraphQL-vs-GRPC
